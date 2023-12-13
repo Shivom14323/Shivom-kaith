@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta Shivom="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Travel Blog</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: white;
+      color: black;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: royalblue;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+
+    nav {
+      background-color: black;
+      color: white;
+      padding: 0.5em;
+    }
+
+    nav a {
+      color: pink;
+      text-decoration: none;
+      margin: 0 1em;
+    }
+
+    section {
+      padding: 2em;
+    }
+
+    footer {
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding: 1em;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Your Travel Blog</h1>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#blog">Blog</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="home">
+    <h2>Welcome to Your Travel Blog!</h2>
+    <p>Explore the world through my eyes and experiences.</p>
+  </section>
+
+  <section id="about">
+    <h2>Passionate globetrotter and storyteller 🌍✈️ | Roaming with a camera in one hand and a passport in the other 📷🛂 | From hidden gems to iconic landmarks, I'm on a mission to uncover the beauty of our planet | Adventure seeker, memory maker, and forever in pursuit of the next great travel tale | Join me as I navigate cultures, share travel tips, and inspire your wanderlust one blog post at a time. #AdventureAwaits #TravelBlogger 🌄🗺️
+
+
+
+
+
+</h2>
+    <p>Adventurous Explorer ✈️ | Embracing the World, One Journey at a Time 🌍 | Capturing Moments, Creating Memories 📸 | Wanderlust-infected Soul 🗺️ | Join me on the Road Less Traveled! #TravelEnthusiast #ExploringTheGlobe.</p>
+  </section>
+
+  <section id="blog">
+    <h2>Latest Posts</h2>
+    <article>
+      <h3>Post Title 1</h3>
+      <p>Content of your first blog post.</p>
+    </article>
+    <article>
+      <h3>Post Title 2</h3>
+      <p>Content of your second blog post.</p>
+    </article>
+    <!-- Add more articles as needed -->
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Reach out to me via email@example.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Your Travel Blog. All rights reserved.</p>
+  </footer>
+
+</body>
+
+</html>
